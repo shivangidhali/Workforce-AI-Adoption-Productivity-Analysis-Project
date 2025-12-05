@@ -5,11 +5,11 @@ This project analyzes how different departments in an organization are adopting 
 The goal of this project is to:
 Develop a data-driven analytics framework that quantifies AI adoption, measures productivity uplift, calculates ROI, and provides actionable insights for strategic workforce planning and AI deployment.
 ## Problem Statement:
-1-	Analyze who is using AI effectively and in which department
-2-	How AI Adoption influence productivity task efficiency, overtime cost.
-3-	What is the return of investment (ROI) of AI tools per employee or Department?
-4-	Which workforce segments resist AI Adoption and how does this effect overall performance.
-5-	Is overtime reduce or not after using AI Tools or AI Training. 
+-	Analyze who is using AI effectively and in which department
+-	How AI Adoption influence productivity task efficiency, overtime cost.
+-	What is the return of investment (ROI) of AI tools per employee or Department?
+-	Which workforce segments resist AI Adoption and how does this effect overall performance.
+-	Is overtime reduce or not after using AI Tools or AI Training. 
 ## Key Findings and Insights:
 - Employees across all departments are using AI, but high-level remains the lowest everywhere, AI adoption is high in R&D and sales department but also very low than high, signaling a strong need for capability-building.
       - According to Job roles AI usage level is very low, Maximum Job roles AI usage level is Medium and low. Sales Executive, Research Scientist, Manufacturing Director and Lab technician are lowest AI usage Job roles. 
